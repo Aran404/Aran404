@@ -8,8 +8,6 @@
     
 <a href="https://lookup.guru/905989612814606356"><strong>Discord Profile</strong></a>
     
-<a href="https://optiservices.sellix.io/"><strong>Sellix</strong></a>
-    
 <a href="https://open.spotify.com/user/3ivkrpjttiwesyvqqfu946vy9"><strong>Spotify</strong></a>    
 
     
