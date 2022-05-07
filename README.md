@@ -1,6 +1,6 @@
 ### **Hey**, I am Aran. 14 Years Old 🔥
 
-<a href="https://github.com/othneildrew/Best-README-Template">
+<a href="https://github.com/Aran404/Aran404">
     <img src="images/carbon.png" alt="Logo" width="550" height="450">
 
 ## **Socials**
