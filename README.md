@@ -1,4 +1,4 @@
-### **Hey**, I am Aran. 14 Years Old 🔥
+### I am a skid
 
 <a href="https://github.com/Aran404/Aran404">
     <img src="images/carbon.png" alt="Logo" width="550" height="450">
@@ -36,7 +36,7 @@
 - Juypter <img src="images/jupyter.svg" alt="Logo" width="18" height="20">
 
     
-## **Trusted** | *It's hard to become trusted with me*
+## **Trusted**
     
 **Discord**
 - ! Kenny#9999, 717821728503496714
@@ -45,10 +45,11 @@
     
 **Telegram**
 - @dolfies
+- @surreal03
  
     
 ## **Checklist for 2022**
-- [x] Not be a Skid
+- [x] Be a Skid
 - [x] Get 50 Stars
 - [x] Learn Python
 - [ ] Learn Golang
@@ -57,9 +58,5 @@
 
     
 ## **Skids**
-I always address the so called script kiddies in many of my codes.
-    
-We were all one at some point, but trying to sell or pass of something as yours when it's free is scummy.
-    
-Just learn to code. 🤓
+Learn to code 🤓
 
