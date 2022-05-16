@@ -4,6 +4,8 @@
     <img src="images/carbon.png" alt="Logo" width="550" height="450">
 
 ## **Socials**
+<a href="https://optiservices.sellix.io"><strong>Sellix</strong></a>  
+    
 <a href="https://discord.gg/opti"><strong>Discord Server</strong></a>
     
 <a href="https://lookup.guru/905989612814606356"><strong>Discord Profile</strong></a>
