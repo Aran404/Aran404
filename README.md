@@ -1,4 +1,5 @@
 ### I am a skid
+<a href="https://aran.wtf"><strong>Personal Website</strong></a>  
 
 <a href="https://github.com/Aran404/Aran404">
     <img src="images/carbon.png" alt="Logo" width="550" height="450">
