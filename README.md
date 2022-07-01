@@ -15,7 +15,7 @@
 
     
 ## **Statistics**
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Aran404)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Aran404) <-- Most were made using a botter for fun
     
 ![GitHub User's stars](https://img.shields.io/github/stars/Aran404?style=social)
     
