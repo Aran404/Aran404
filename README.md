@@ -37,27 +37,15 @@
 - Visual Studio Code <img src="images/vsc.svg" alt="Logo" width="18" height="20">
 - Pycharm <img src="images/pycharm.svg" alt="Logo" width="18" height="20">
 - Juypter <img src="images/jupyter.svg" alt="Logo" width="18" height="20">
-
-    
-## **Trusted**
-    
-**Discord**
-- ! Kenny#9999, 717821728503496714
-- Flex#8629, 851733765268963369
-- FetaaWSB#1582, 269933151667748865
-    
-**Telegram**
-- @dolfies
-- @surreal03
  
     
 ## **Checklist for 2022**
 - [x] Be a Skid
 - [x] Get 50 Stars
 - [x] Learn Python
-- [ ] Learn Golang
+- [x] Learn Golang
+- [x] Get 25 Followers
 - [ ] Get 50 Repositories
-- [ ] Get 25 Followers
 
     
 ## **Skids**
