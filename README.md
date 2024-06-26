@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/@aran_xyz" target="blank"><img align="center" src="./assets/tg.png" alt="test" height="40" width="40" /></a>
+<a href="https://t.me/aran_xyz" target="blank"><img align="center" src="./assets/tg.png" alt="test" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
