@@ -1,53 +1,20 @@
-### I am a skid
-<a href="https://aran.wtf"><strong>Personal Website</strong></a>  
+<h1 align="center">Hey 👋, I'm Aran</h1>
+<h3 align="center">An aspiring developer</h3>
 
-<a href="https://github.com/Aran404/Aran404">
-    <img src="images/carbon.png" alt="Logo" width="550" height="450">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aran404&label=Profile%20views&color=0e75b6&style=flat" alt="aran404" /> </p>
 
-## **Socials**
-<a href="https://optiservices.sellix.io"><strong>Sellix</strong></a>  
-    
-<a href="https://discord.gg/opti"><strong>Discord Server</strong></a>
-    
-<a href="https://lookup.guru/905989612814606356"><strong>Discord Profile</strong></a>
-    
-<a href="https://open.spotify.com/user/3ivkrpjttiwesyvqqfu946vy9"><strong>Spotify</strong></a>    
+- 🔭 I’m currently working on **Private Projects**
 
-    
-## **Statistics**
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Aran404) <-- Most were made using a botter for fun
-    
-![GitHub User's stars](https://img.shields.io/github/stars/Aran404?style=social)
-    
-![GitHub followers](https://img.shields.io/github/followers/Aran404?style=social)
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aran404&layout=default)
+- 🌱 I’m currently learning **Golang Idioms**
 
-    
-## **Languages**
-- Python <img src="images/python-original.svg" alt="Logo" width="20" height="20">
-- Golang <img src="images/go-logo-046185B647-seeklogo.com.png" alt="Logo" width="14" height="20">
-- Batch <img src="images/batch.png" alt="Logo" width="18" height="20">
-- Javascript/Nodejs <img src="images/javascript.svg" alt="Logo" width="18" height="20">
-- Html <img src="images/html.svg" alt="Logo" width="18" height="20">
-- Css <img src="images/css.svg" alt="Logo" width="18" height="20">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://t.me/@aran_xyz" target="blank"><img align="center" src="./r.gif" alt="test" height="40" width="40" /></a>
+</p>
 
-    
-## **Tools**
-- Visual Studio Code <img src="images/vsc.svg" alt="Logo" width="18" height="20">
-- Pycharm <img src="images/pycharm.svg" alt="Logo" width="18" height="20">
-- Juypter <img src="images/jupyter.svg" alt="Logo" width="18" height="20">
- 
-    
-## **Checklist for 2022**
-- [x] Be a Skid
-- [x] Get 50 Stars
-- [x] Learn Python
-- [x] Learn Golang
-- [x] Get 25 Followers
-- [ ] Get 50 Repositories
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 
-    
-## **Skids**
-Learn to code 🤓
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aran404&show_icons=true&locale=en&layout=compact" alt="aran404" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aran404&show_icons=true&locale=en" alt="aran404" /></p>
