@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Private Projects**
 
-- 🌱 I’m currently learning **Golang Idioms**
+- 🌱 I’m currently learning **Blockchain**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
